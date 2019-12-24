@@ -1,4 +1,31 @@
 {
-	"streams": [],
-	"dodo":[]
+  "streams": [
+    {
+      "title": "far",
+      "description": "han",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "han",
+      "id": 2
+    },
+    {
+      "title": "Stream3",
+      "description": "han",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "Actually might have a description now",
+      "id": 4
+    }
+  ],
+  "dodo": [
+    {
+      "title": "far",
+      "description": "ha",
+      "id": 1
+    }
+  ]
 }

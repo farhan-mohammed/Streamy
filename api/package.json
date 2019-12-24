@@ -5,8 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "json-server -p 3010 -w db.json",
-		"alt":"json-server -p 9999 -w db.json",
-		"tito":"json-server -w db.json --host 100.115.92.196"
+		"alt": "json-server -p 9999 -w db.json",
+		"tito": "json-server -w db.json --host 100.115.92.196"
 	},
 	"keywords": [],
 	"author": "",
